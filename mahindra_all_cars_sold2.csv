@@ -1,0 +1,16 @@
+S.No,Car Model,Variant,Year,Color,Engine Type,Customer Name,Contact Number,Sale Date,Sale Price (₹),Dealer Name
+1,Mahindra Thar,LX Diesel 4WD,2023,Red Rage,Diesel,Rajesh Sharma,9876543210,12/02/2024,1650000,"ABC Motors, Bhopal"
+2,Mahindra Scorpio N,Z8 Petrol AT,2024,Napoli Black,Petrol,Sunita Verma,9123456789,25/03/2024,2175000,"XYZ Automobiles, Indore"
+3,Mahindra XUV700,AX7 Diesel AT,2024,Midnight Black,Diesel,Ravi Singh,9988776655,10/04/2024,2490000,"MNO Cars, Jabalpur"
+4,Mahindra Bolero Neo,N10 Optional,2023,Diamond White,Diesel,Deepak Mehra,8877665544,05/01/2024,1180000,"DEF Motors, Gwalior"
+5,Mahindra XUV300,W8 (O) Diesel,2024,Dual-tone Red & Black,Diesel,Priya Yadav,7766554433,15/05/2024,1260000,"PQR Auto, Bhopal"
+6,Mahindra Bolero,B6 (O) Diesel,2023,Lakeside Brown,Diesel,Amit Chauhan,8899001122,20/06/2024,960000,"LMN Motors, Ujjain"
+7,Mahindra Marazzo,M8 Diesel,2023,Iceberg White,Diesel,Sneha Sahu,9001122334,05/07/2024,1380000,"QRS Motors, Sagar"
+8,Mahindra KUV100 NXT,K8 Petrol,2023,Fiery Orange,Petrol,Vikas Gupta,9112233445,15/07/2024,680000,"TUV Auto, Rewa"
+9,Mahindra Alturas G4,4WD AT,2023,Regal Blue,Diesel,Meena Kumari,9223344556,25/07/2024,2850000,"UVW Motors, Satna"
+10,Mahindra eVerito,D2 Electric,2024,Pearl White,Electric,Ajay Dubey,9334455667,01/08/2024,1000000,"JKL Electric, Bhopal"
+11,Mahindra Supro,ZX Plus Diesel,2023,Silver,Diesel,Suresh Patel,9445566778,10/08/2024,600000,"MNP Auto, Indore"
+12,Mahindra Jeeto,Mini Truck Diesel,2023,White,Diesel,Manoj Tiwari,9556677889,15/08/2024,420000,"OPQ Motors, Guna"
+13,Mahindra TUV300,T10 (O) Diesel,2023,Highway Red,Diesel,Jyoti Mishra,9667788990,20/08/2024,1040000,"RST Cars, Hoshangabad"
+14,Mahindra Treo,Electric Auto,2024,Sky Blue,Electric,Neeraj Jain,9778899001,25/08/2024,300000,"TRE Electric, Bhopal"
+15,Mahindra BE.05 (Concept),Prototype Electric SUV,2025,Matte Grey,Electric,Prototype Booking,9889900112,30/08/2025,2500000,Mahindra Future Lab
