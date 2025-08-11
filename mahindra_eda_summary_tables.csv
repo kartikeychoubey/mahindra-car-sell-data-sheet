@@ -1,0 +1,61 @@
+### summary_stats
+,count,mean,std,min,25%,50%,75%,max
+Units_Sold,168.0,35.93,20.67,1.0,20.75,32.5,49.5,95.0
+Selling_Price,168.0,1656833.03,607757.03,848787.0,1221015.0,1492676.0,2143877.25,2956237.0
+Revenue,168.0,58447733.92,43315956.44,2589768.0,25899523.0,46962591.0,78360024.0,208880680.0
+
+
+### top_models_units
+Model,Units_Sold
+XUV700,1532
+Thar,1105
+Scorpio-N,1020
+XUV300,960
+Bolero,775
+Marazzo,397
+Alturas G4,248
+
+
+### top_models_revenue
+Model,Revenue
+XUV700,3357324194.0
+Scorpio-N,1746875382.0
+Thar,1654236602.0
+XUV300,1149603946.0
+Alturas G4,700769639.0
+Bolero,698455820.0
+Marazzo,511953715.0
+
+
+### engine_distribution
+Engine_Type,Units_Sold
+Diesel,3545
+Petrol,2492
+
+
+### monthly_trend
+Month,Units_Sold
+2024-01,440
+2024-02,537
+2024-03,433
+2024-04,438
+2024-05,500
+2024-06,477
+2024-07,524
+2024-08,553
+2024-09,617
+2024-10,469
+2024-11,473
+2024-12,576
+
+
+### dealer_revenue
+Dealer_Location,Revenue
+Bangalore,2227505721.0
+Delhi,1915342934.0
+Pune,1598043419.0
+Mumbai,1371197574.0
+Hyderabad,1359840741.0
+Chennai,1347288909.0
+
+
