@@ -1,0 +1,7 @@
+
+📊 Sales Summary:
+------------------
+Total Orders: 5
+Total Units Sold: 20
+Total Revenue: ₹27,350,000.00
+Average Order Value: ₹5,470,000.00

@@ -1,0 +1,11 @@
+Month,Car_Model,Quantity,Price_per_Unit
+2024-01,Mahindra Thar,50,1500000
+2024-01,Mahindra Scorpio,40,1600000
+2024-02,Mahindra XUV700,35,1800000
+2024-02,Mahindra Bolero,45,1000000
+2024-03,Mahindra Thar,55,1500000
+2024-03,Mahindra Scorpio,42,1600000
+2024-04,Mahindra XUV700,38,1800000
+2024-04,Mahindra Bolero,48,1000000
+2024-05,Mahindra Thar,60,1500000
+2024-05,Mahindra Scorpio,50,1600000
